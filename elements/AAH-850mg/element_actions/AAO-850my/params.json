@@ -1,0 +1,30 @@
+{
+    "caption": "Paste",
+    "fields": {
+        "AAP": {
+            "caption": "Target Element ID",
+            "default_val": "image",
+            "doc": "The id of the element where you want to paste the svg image.",
+            "editor": "DynamicValue",
+            "name": "target_element_id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "Upload Image to File Manager",
+            "default_val": true,
+            "editor": "Checkbox",
+            "name": "upload_image_to_file_manager",
+            "rank": 1
+        },
+        "AAR": {
+            "caption": "Image Name",
+            "default_val": "Pasted Image",
+            "editor": "DynamicValue",
+            "name": "image_name",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        }
+    }
+}

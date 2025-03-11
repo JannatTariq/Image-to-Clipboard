@@ -1,0 +1,42 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "SVG Clipboard",
+    "events": {
+        "AAK": {
+            "caption": "Copied",
+            "name": "copied"
+        },
+        "AAL": {
+            "caption": "Pasted",
+            "name": "pasted"
+        }
+    },
+    "icon": "ion-ios-copy-outline",
+    "platform_type": "web",
+    "property_applications": {
+        "resizable": true
+    },
+    "states": {
+        "AAJ": {
+            "caption": "svg_code",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "svg_code",
+            "value": "text"
+        },
+        "AAS": {
+            "caption": "svg_upload_url",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "svg_upload_url",
+            "value": "text"
+        }
+    }
+}

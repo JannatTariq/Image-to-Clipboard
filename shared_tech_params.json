@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAT": {
+            "name": "Copy",
+            "url": "//meta-q.cdn.bubble.io/f1741598689371x115513862978155360/copy-to-clipboard-svgrepo-com.svg"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

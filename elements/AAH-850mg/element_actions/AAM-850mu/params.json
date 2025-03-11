@@ -1,0 +1,14 @@
+{
+    "caption": "Copy",
+    "fields": {
+        "AAN": {
+            "caption": "Image URL",
+            "default_val": "//meta-q.cdn.bubble.io/f1741596755429x110328893990239820/business_logo.svg",
+            "doc": "A valid accessible image URL ",
+            "editor": "DynamicValue",
+            "name": "image_url",
+            "rank": 0,
+            "value": "image"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "category": "plugins",
+    "display": "Image to Clipboard By URL",
+    "fields": {
+        "AAD": {
+            "caption": "Image URL",
+            "default_val": "//meta-q.cdn.bubble.io/f1741599592904x729102230296063700/business_logo.svg",
+            "doc": "The url of the image",
+            "editor": "DynamicValue",
+            "name": "url",
+            "rank": 0,
+            "value": "image"
+        }
+    },
+    "type": "client_side"
+}

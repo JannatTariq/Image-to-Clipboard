@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Image to Clipboard By Element ID",
+    "fields": {
+        "AAU": {
+            "caption": "Element ID",
+            "default_val": "image",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
